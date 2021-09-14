@@ -183,7 +183,7 @@ describe("GET /jobs retern job by user param", () => {
 
   });
 
-/************************************** PATCH /companies/:handle */
+/************************************** PATCH /jobs/:id */
 
 describe("PATCH /jobs/:id", () => {
 
@@ -262,7 +262,7 @@ describe("PATCH /jobs/:id", () => {
 
 });
 
-  /************************************** DELETE /companies/:handle */
+  /************************************** DELETE /jobs/:id */
 
 describe("DELETE /jobs/:id", () => {
 
